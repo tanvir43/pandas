@@ -1,2 +1,2 @@
-# pandas-with-csv
-The way Pandas works with csv
+# pandas
+Working with pandas from scratch to depth
